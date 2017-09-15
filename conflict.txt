@@ -1,3 +1,7 @@
 conflict
 
+<<<<<<< HEAD
 Sucks to suck
+=======
+lorem ipsum blehbleh bleh
+>>>>>>> 6f5fea136f9f2ad7bc688ef49b801af33e8c7a92
